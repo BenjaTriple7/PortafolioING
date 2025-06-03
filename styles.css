@@ -254,7 +254,7 @@ button:hover {
     }
     .perfilocult{
         width: 160px;
-        display: flex;
+        display: none;
         position: absolute;
         inset-inline-start: 0px;
         inset-block-start: 240px;
