@@ -253,11 +253,11 @@ button:hover {
         border: solid 6px #33ff92;
     }
     .perfilocult{
-        width: 215px;
+        width: 160px;
         display: flex;
         position: absolute;
-        inset-inline-start: 05px;
-        inset-block-start:  185px;
+        inset-inline-start: 0px;
+        inset-block-start: 240px;
     }
     .container2 {
         flex-direction: column;
